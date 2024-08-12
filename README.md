@@ -10,7 +10,7 @@ Flutter
 > This app will not work in debug mode, download and open in real device <br>
 > OR <br>
 > ![image](https://github.com/user-attachments/assets/a60fbee9-cceb-4a89-8ac4-dad1505d3039) <br>
-> make the value false of "showNotification"
+> make the value false of "showNotification" in audio_player_component.dart
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Features](#features)
