@@ -48,11 +48,46 @@ class _AudioPlayerComponentState extends State<AudioPlayerComponent>
     },
   ];
   List<Audio> audioList = [
-    Audio('assets/songs/be_mine.mp3'),
-    Audio('assets/songs/big_dwags.mp3'),
-    Audio('assets/songs/blockbuster.mp3'),
-    Audio('assets/songs/illuminati.mp3'),
-    Audio('assets/songs/rang_bhini_radha.mp3'),
+    Audio(
+      'assets/songs/be_mine.mp3',
+      metas: Metas(
+        image: MetasImage(
+            path: 'assets/images/be_mine.jpeg', type: ImageType.asset),
+        title: 'Be Mine',
+      ),
+    ),
+    Audio(
+      'assets/songs/big_dwags.mp3',
+      metas: Metas(
+        image: MetasImage(
+            path: 'assets/images/big_dwags.jpeg', type: ImageType.asset),
+        title: 'Big Dwags',
+      ),
+    ),
+    Audio(
+      'assets/songs/blockbuster.mp3',
+      metas: Metas(
+        image: MetasImage(
+            path: 'assets/images/blockbuster.jpeg', type: ImageType.asset),
+        title: 'BlockBuster',
+      ),
+    ),
+    Audio(
+      'assets/songs/illuminati.mp3',
+      metas: Metas(
+        image: MetasImage(
+            path: 'assets/images/illuminati.jpeg', type: ImageType.asset),
+        title: 'Illuminati',
+      ),
+    ),
+    Audio(
+      'assets/songs/rang_bhini_radha.mp3',
+      metas: Metas(
+        image: MetasImage(
+            path: 'assets/images/rang_bhini_radha.jpeg', type: ImageType.asset),
+        title: 'Rang Bhini Radha',
+      ),
+    ),
   ];
   @override
   void initState() {
@@ -60,6 +95,7 @@ class _AudioPlayerComponentState extends State<AudioPlayerComponent>
     assetsAudioPlayer.open(
       Playlist(audios: audioList),
       autoStart: false,
+      showNotification: true,
     );
   }
 
