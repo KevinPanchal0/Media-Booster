@@ -6,9 +6,11 @@ player, video player, and carousel slider functionalities along with a tab bar v
 designed to enhance the knowledge and skills of IT students in mobile app development using
 Flutter
 
-> [!NOTE]
-> This app will not work in debug mode, download and open in real device
-
+> [!IMPORTANT]
+> This app will not work in debug mode, download and open in real device <br>
+> OR <br>
+> ![image](https://github.com/user-attachments/assets/a60fbee9-cceb-4a89-8ac4-dad1505d3039) <br>
+> make the value false of "showNotification"
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Features](#features)
@@ -38,5 +40,5 @@ Flutter
 - Flutter framework with MVC and Provider architecure
 
 ## Download
-- [Download the app](https://drive.google.com/file/d/15-PwHN2mbiTonsQSXR2BpunA0CuI-rux/view?usp=sharing)
+- [Download the app](https://drive.google.com/file/d/178foOr_CGBblMw0a-PhUWtMVDE1K1wwW/view?usp=sharing)
 - And Install
