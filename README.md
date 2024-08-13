@@ -18,15 +18,13 @@ Flutter
 - [Download](#download)
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/6f26f802-f55e-48ae-bf0f-d0cad952506f" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/18227266-3cfb-4e93-a181-3fc8379dc279" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/ab238939-79ae-4bcf-bb7d-07169fad881c" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/9f47db00-b607-492e-a6d6-35d7b457dab5" alt="App Screenshot" width="200" height="400"/> <br><br>
-<img src="https://github.com/user-attachments/assets/0568f10a-df83-4a7f-b44d-ffd222d9c4ef" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/2e14f2f3-bdbf-4340-bd8d-db3afcfe180d" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/52f8ca95-173f-4e06-819a-a23143477728" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/f5dbbcf3-b7b0-4877-9895-3b2bcb8c05d5" alt="App Screenshot" width="200" height="400"/>
-
+<img src="https://github.com/user-attachments/assets/595f3846-ce5a-4c0d-8583-f2f525f51fbd" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/488b0743-1a76-4b19-834d-729db9a5033a" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/f7db82a5-adb3-41c4-b584-181831df5511" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/e4568d4f-d1c9-49b0-a71e-b2ad316c4f25" alt="App Screenshot" width="200" height="400"/> <br><br>
+<img src="https://github.com/user-attachments/assets/4bc23861-cfb5-4491-9b6d-6b1fd61f3430" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/6387ce9a-6924-4dad-9182-0a638b9a4cbe" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/df52b7fd-e964-479b-8d3c-75c4cbc215b0" alt="App Screenshot" width="200" height="400"/>
 
 ## Features
 - To develop a media player application using the Flutter framework.
